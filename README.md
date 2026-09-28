@@ -1,1 +1,1 @@
-[AttaatSherwani.com](https://AttaatSherwani.com) is my dad's website
+[AttaatSherwani.com](https://AttaatSherwani.com) is a website for my dad
