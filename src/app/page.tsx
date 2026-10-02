@@ -1,12 +1,8 @@
-import Image from "next/image";
+import Hero from "@/components/home/Hero/Hero";
 import styles from "./page.module.css";
 
 export default function Home() {
   return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        Hang on Tight!
-      </main>
-    </div>
+    <Hero />
   );
 }
